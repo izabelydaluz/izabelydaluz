@@ -1,14 +1,20 @@
-<a href="https://git.io/typing-svg" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&width=435&lines=Ol%C3%A1%2C+me+chama+Izabely" alt="Typing SVG" /> 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="50">
-</a>
+<div align="center">
 
-### ⚙️ Areas de conhecimento
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Izabely" alt="Typing SVG" />
+  </a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="60" alt="Hi GIF">
+
+</div>
+
+---
+
+### ⚙️ Áreas de conhecimento
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,arduino,c,cpp,cs,mysql,git,unity,github,windows&theme=dark" alt="Languages and Tools" />
 </div>
 
-#
+---
 
 ### 🌎 Meus Contatos
 <div align="center">
@@ -20,7 +26,7 @@
   </a>
 </div>
 
-#
+---
 
 ### 📊 Status
 <div align="center">
@@ -30,9 +36,9 @@
   </a>
 </div>
 
-#
+---
 
 ### 🔥 Estatísticas de sequência
 <div align="center">
-  <img src="https://streak-stats.vercel.app?user=GuilhermePoma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=izabelydaluz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
