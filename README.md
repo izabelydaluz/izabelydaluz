@@ -13,7 +13,7 @@
 ## °🛠️ Ferramentas e Tecnologias°
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,cs,bash,sqlite,mysql,git,github&theme=dark" alt="Languages and Tools" />
 </div>
 
 <h2 align="center">°☎Contatos°</h2>
