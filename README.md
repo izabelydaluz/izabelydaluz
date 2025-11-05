@@ -2,8 +2,8 @@
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Izabely" alt="Typing SVG" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="60" alt="Hi GIF">
   </a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="60" alt="Hi GIF">
 
 </div>
 
