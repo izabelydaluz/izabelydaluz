@@ -8,10 +8,10 @@
 
 ---
 
-### ⚙️ Áreas de conhecimento
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="60" alt="Hi GIF">
-</div>
+<h3 align="center">
+  ⚙️ Áreas de conhecimento
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ6c2N5YzF4OW9pc2xkd2N3dDY5bWt5aWhnaGdqM2FobGNid3pkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FkhK87rXbRQtohaUAQ/giphy.gif" width="45" alt="Hi GIF">
+</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,arduino,c,cpp,cs,mysql,git,unity,github,windows&theme=dark" alt="Languages and Tools" />
